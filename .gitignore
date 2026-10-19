@@ -1,0 +1,7 @@
+# Temporary files
+*.tmp
+.hashes.*
+
+# Local backup files
+baseline/*.bak
+baseline/*.pre-cleanup
